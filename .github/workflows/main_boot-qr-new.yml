@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Boot-Qr-new'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DE4A1A0CA3B4456931EA1AEDF7E2521 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98581D9B0A734E33ADFC32BDB1F45DEE }}
           package: '*.jar'
